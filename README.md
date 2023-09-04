@@ -1,7 +1,7 @@
 # m4ransom
 Descripcion:
-M4RANSOM es una herramienta sencilla con opciones de personalizacion, la cual nos permitira crear aplicaciones de tipo ransomware,
-que al instalarse en el movil de la victima y ejecutarse lanzara un mensaje y solicitara una contraseña la cual nosotros podremos personalizar.
+M4RANSOM es una herramienta sencilla la cual nos permitira crear aplicaciones de tipo ransomware con una interfaz personalizada y bastante sencilla,
+Dichas aplicaciones al instalarse en el movil de la victima y ejecutarse lanzara un mensaje y solicitara una contraseña la cual nosotros podremos elegir.
 
 Instalacion disponible en kali linux & termux
 Kali linux (recomendable hacer uso de la herramienta en modo root (sudo su):
