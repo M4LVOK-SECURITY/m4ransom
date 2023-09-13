@@ -41,4 +41,10 @@ https://t.me/kalilinuxandtermuxtools
 Servidor de Discord:
 https://discord.gg/D2uGXHj5
 
+Canal de Youtube 
+https://youtube.com/@m4ltech?si=upXauo438d1x9gDr
+
+Tiktok
+https://www.tiktok.com/@hacking_m41?_t=8fLiEbmoEQn&_r=1
+
 Compartiendo conocimiento diariamente 📱✨
