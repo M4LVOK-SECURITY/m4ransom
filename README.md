@@ -1,5 +1,4 @@
 # m4ransom
-Descripcion:
 M4RANSOM es una herramienta sencilla la cual nos permitira crear aplicaciones de tipo ransomware con una interfaz personalizada y bastante simple,
 Dicha aplicacion 
 al instalarse en el movil de la victima y ejecutarse lanzara un mensaje y solicitara una contraseña la cual nosotros podremos elegir.
