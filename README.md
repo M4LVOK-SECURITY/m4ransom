@@ -30,7 +30,7 @@ Elegimos la opcion segun nuestros requerimentos.
 
 Acerca de:
 Esta herramienta es creada con fines educativos y de entretenimiento, el creador no se responsabiliza del uso malintencionado o con fines
-fuera de los establecidos.
+fuera de los establecidos o consecuencias derivadas de su uso.
 Usala de forma reponsable. 
 
 Para más herramientas dudas y demás material:
