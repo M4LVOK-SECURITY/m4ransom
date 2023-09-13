@@ -28,7 +28,7 @@ Elegimos la opcion segun nuestros requerimentos.
 2) Bloquea archivos del dispositvo.
 
 
-Hacerca de:
+Acerca de:
 Esta herramienta es creada con fines educativos y de entretenimiento, el creador no se responsabiliza del uso malintencionado o con fines
 fuera de los establecidos.
 Usala de forma reponsable. 
