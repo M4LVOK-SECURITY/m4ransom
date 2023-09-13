@@ -33,7 +33,7 @@ Esta herramienta es creada con fines educativos y de entretenimiento, el creador
 fuera de los establecidos.
 Usala de forma reponsable. 
 
-Para más herramientas y demás material:
+Para más herramientas dudas y demás material:
 
 Telegram:
 https://t.me/kalilinuxandtermuxtools
@@ -41,4 +41,4 @@ https://t.me/kalilinuxandtermuxtools
 Servidor de Discord:
 https://discord.gg/D2uGXHj5
 
-Compartimos conocimiento diariamente 📱✨
+Compartiendo conocimiento diariamente 📱✨
